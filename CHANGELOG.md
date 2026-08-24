@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-19)
+## Unreleased (2026-08-24)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`bafe226`](https://github.com/stdlib-js/stdlib/commit/bafe22638c5f8d0b61c6f5986b8cc84db0309c77) - **feat:** add `stats/incr/nanrss` [(#10082)](https://github.com/stdlib-js/stdlib/pull/10082) _(by Kanika Sharma, Philipp Burckhardt)_
 
 </details>
